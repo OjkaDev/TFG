@@ -3,7 +3,8 @@
 ![Laravel](https://img.shields.io/badge/Laravel-12.0-FF2D20?style=flat-square&logo=laravel)
 ![Vue.js](https://img.shields.io/badge/Vue-3.5-4FC08D?style=flat-square&logo=vue.js)
 ![PHP](https://img.shields.io/badge/PHP-8.2-777BB4?style=flat-square&logo=php)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+![License](https://img.shields.io/badge/License-AGPL--3.0-blue?style=flat-square)
+
 
 Una aplicación web moderna para gestión de registro de horas y fichaje de empleados. Proporciona un sistema integral para registrar horas de trabajo, calcular nóminas y gestionar configuraciones de empresa.
 
