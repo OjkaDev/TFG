@@ -48,8 +48,8 @@ Una aplicación web moderna para gestión de registro de horas y fichaje de empl
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/tfg_vue.git
-cd tfg_vue
+git clone https://github.com/OjkaDev/TFG.git
+cd TFG
 ```
 
 ### 2. Configurar Backend (Laravel)
@@ -192,7 +192,7 @@ php artisan test --coverage
 
 ## Licencia
 
-Este proyecto está licenciado bajo la licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está licenciado bajo la licencia GNU AFFERO GENERAL PUBLIC LICENSE - ver el archivo [LICENSE](LICENSE) para más detalles.
 
 
 ## Autor
