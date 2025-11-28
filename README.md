@@ -195,10 +195,14 @@ php artisan test --coverage
 Este proyecto está licenciado bajo la licencia GNU AFFERO GENERAL PUBLIC LICENSE - ver el archivo [LICENSE](LICENSE) para más detalles.
 
 
-## Autor
+## 💬 Contacto
 
-Desarrollado como Trabajo de Fin de Grado (TFG)
+Si quieres contactar conmigo para ver más proyectos o colaborar:
+
+* **GitHub:** [https://github.com/OjkaDev](https://github.com/OjkaDev)
+* **LinkedIn:** *www.linkedin.com/in/óscar-calvellido-gil-145522207*
 
 ---
+
 
 **Última actualización:** Mayo 2025
