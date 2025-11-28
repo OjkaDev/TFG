@@ -6,34 +6,33 @@
 ![License](https://img.shields.io/badge/License-AGPL--3.0-blue?style=flat-square)
 
 
-Una aplicación web moderna para gestión de registro de horas y fichaje de empleados. Proporciona un sistema integral para registrar horas de trabajo, calcular nóminas y gestionar configuraciones de empresa.
+Una aplicación web completa y flexible diseñada para que cada usuario pueda registrarse, gestionar sus horas trabajadas y obtener el cálculo automático de su salario en función de sus propias condiciones laborales. Permite configurar distintos tipos de jornada, contratos parciales y parámetros específicos como horas complementarias, nocturnas o bonificaciones adicionales. Está especialmente pensada para entornos donde la nómina depende de múltiples variables y se requiere un control preciso y personalizado del tiempo trabajado.
 
 ## Características
 
 ✨ **Registro de Horas**
-- Interfaz intuitiva para marcar entrada y salida
-- Historial completo de fichajes
-- Validación automática de registros
+- Interfaz intuitiva para marcar entrada y salida.
+- Historial completo de fichajes.
+- Validación automática de registros.
 
 📊 **Dashboard**
-- Vista general de estadísticas de trabajo
-- Resumen de horas registradas
-- Información de nóminas
+- Resumen global de actividad laboral.
+- Resumen por empresa, jornada o tipo de hora.
+- Vista rápida del progreso mensual hacia el salario esperado.
 
 ⚙️ **Configuración**
-- Gestión de configuraciones del sistema
-- Control de parámetros de cálculo de horas
-- Información de empresa
+- Definición de múltiples trabajos/empresas por usuario.
+- Parámetros personalizados para cada configuración: horas complementarias, nocturnas, festivas, bonificaciones y más.
+- Ajuste flexible de la nómina: rango de fechas, horas de contrato, cálculos específicos.
 
 👤 **Gestión de Usuarios**
-- Autenticación segura con Sanctum
-- Registro de nuevos empleados
-- Control de permisos y roles
+- Autenticación segura con Sanctum.
+- Cada usuario gestiona sus propios trabajos, configuraciones y fichajes.
+- Datos totalmente independientes entre usuarios.
 
 📈 **Cálculo de Nóminas**
-- Procesamiento automático de horas trabajadas
-- Cálculo de compensaciones
-- Generación de reportes
+- Cálculo automático del salario según las condiciones de cada trabajo.
+- Distinción entre distintos tipos de horas y sus valores correspondientes.
 
 ## Requisitos Previos
 
